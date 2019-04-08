@@ -29,7 +29,7 @@ public class Country {
     }
 
     public double getChangePopulation() {
-        return changePopulation;
+        return changePopulation; 
     }
 
     public void setChangePopulation(double changePopulation) {
